@@ -4,8 +4,8 @@ import (
 	"crypto/tls"
 	"fmt"
 
-	"github.com/furkansenharputlu/f-license/config"
-	"github.com/furkansenharputlu/f-license/storage"
+	"f-license/config"
+	"f-license/storage"
 
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"

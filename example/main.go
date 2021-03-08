@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/furkansenharputlu/f-license/client"
+	"f-license/client"
 )
 
 // make the license configurable

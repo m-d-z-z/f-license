@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/furkansenharputlu/f-license/config"
-	"github.com/furkansenharputlu/f-license/lcs"
-	"github.com/furkansenharputlu/f-license/storage"
+	"f-license/config"
+	"f-license/lcs"
+	"f-license/storage"
 
 	"github.com/gorilla/mux"
 	"github.com/sirupsen/logrus"

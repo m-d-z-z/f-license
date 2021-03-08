@@ -19,10 +19,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/furkansenharputlu/f-license/client"
-	"github.com/furkansenharputlu/f-license/config"
-	"github.com/furkansenharputlu/f-license/lcs"
-	"github.com/furkansenharputlu/f-license/storage"
+	"f-license/client"
+	"f-license/config"
+	"f-license/lcs"
+	"f-license/storage"
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/stretchr/testify/assert"

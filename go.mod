@@ -1,6 +1,6 @@
-module github.com/furkansenharputlu/f-license
+module f-license
 
-go 1.12
+go 1.16
 
 require (
 	github.com/dgrijalva/jwt-go v0.0.0-20190620180102-5e25c22bd5d6

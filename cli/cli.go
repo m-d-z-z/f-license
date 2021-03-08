@@ -7,9 +7,9 @@ import (
 	"io/ioutil"
 	"os"
 
-	"github.com/furkansenharputlu/f-license/config"
-	"github.com/furkansenharputlu/f-license/lcs"
-	"github.com/furkansenharputlu/f-license/storage"
+	"f-license/config"
+	"f-license/lcs"
+	"f-license/storage"
 
 	"github.com/sirupsen/logrus"
 	"github.com/spf13/cobra"

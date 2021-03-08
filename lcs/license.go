@@ -7,7 +7,7 @@ import (
 	"io/ioutil"
 	"strings"
 
-	"github.com/furkansenharputlu/f-license/config"
+	"f-license/config"
 
 	jwt "github.com/dgrijalva/jwt-go"
 	"github.com/sirupsen/logrus"
