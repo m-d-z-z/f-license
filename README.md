@@ -1,4 +1,5 @@
 # f-license
+> This repo is clone from [https://github.com/furkansenharputlu/f-license.git](https://github.com/furkansenharputlu/f-license.git)
 > **NOTE**: This project will be improved with lots of new features!
 
 **f-license** is an open-source license creation and verification tool. You can quickly add license key verification to your application. Don't implement yourself, just use the open-source product!
@@ -12,7 +13,7 @@
 - Activating and inactivating customer license keys
 - **f-cli** tool to manage licenses by terminal
 
-See the latest [Documentation](https://github.com/m-d-z-z/f-license/wiki).
+See the latest [Documentation](https://github.com/furkansenharputlu/f-license/wiki).
 
 # How to use
 
